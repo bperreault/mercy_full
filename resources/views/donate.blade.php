@@ -50,12 +50,16 @@ Item donations are accepted as well and can be picked up at your convenience.<br
      
     
   
-      <form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="mercy_full_donate" value="3FFLHTBJRDAD6" />
-<input type="image" style="border:0; margin-bottom:20px; width:300px;" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img style="border:0;" alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="ZNGK375XYMMPJ" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" style="border:0;" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-<img style="margin:auto;text-align:center;max-width:300px" src="/images/mcfPaypalQR.jpg" style="border:0" />
+
+
+
+<img style="border:0; margin:auto; text-align:center;" src="/images/QRCode.png"  />
+      
       <br />
 
 </div>
